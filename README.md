@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @areebkhan11
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on any softwarehouse 
+- 💞️ I always try to learn new skills
 - 📫 How to reach me send mail areebkhan123123@gmail.com
 
 <!---
