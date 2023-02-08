@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @areebkhan11
+- 👋 Hi, I’m Areeb
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
 - 💞️ I always try to learn new skills
